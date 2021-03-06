@@ -1,0 +1,395 @@
+
+Title : Pengenalan Citra Bunga Menggunakan Segmentasi Otsu Treshold dan Naïve Bayes
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/304/196
+Title : Integrasi Metode Naive Bayes dengan K-Means dan K-Means-Smote untuk Klasifikasi Jurusan SMAN 3 Mataram
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/317/197
+Title : Sistem Pendukung Keputusan Seleksi Beasiswa Bantuan Belajar Mahasiswa Menggunakan Metode Modified-Simple Additive Weighting
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/315/198
+Title : Analisis Sentimen Dokumen Twitter Mengenai Dampak Virus Corona Menggunakan Metode Naive Bayes Classifier
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/332/199
+Title : Penerapan Radio-Frequency Identification pada Absensi Portable Menggunakan Mode Online dan Offline
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/314/200
+Title : Pemanfaatan Persebaran Lokasi Jupiter Sebagai Media E-Commerce Menggunakan Model Bisnis C2C
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/296/201
+Title : Penentuan Lokasi Stup Menggunakan Pembobotan Rank Order Centroid (ROC) dan Simple Additive Weighting (SAW)
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/340/202
+Title : Multimedia Interaktif Pengenalan Pura Lingga Bhuwana dengan Metode 2D Hybrid Animation
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/327/203
+Title : Penerapan Analisis Value Chain dan Five Force Factor Serta Perumusan Strategi McFarlan’s pada SMK TI Bali Global Badung
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/366/206
+Title : Pengenalan Objek Bunga dengan Ekstraksi Fitur Warna dan Bentuk Menggunakan Metode Morfologi dan Naïve Bayes
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/338/204
+Title : Analisis Pengaruh Profil Toko Resmi Smartphone pada Situs E-Commerce terhadap Tingkat Penjualan
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/358/207
+Title : Penerapan K-Means Clustering pada Penyakit Infeksi Saluran Pernapasan Akut (ISPA) di Kabupaten Karawang
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/350/205
+Title : Penentuan Rute Evakuasi Bencana Kebakaran Menggunakan Algoritma Dijkstra berbasis Web Framework Vue.js
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/252/194
+Title : E-Tourism Provinsi Bali Berbasis Web dengan Framework Laravel
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/298/189
+Title : Over The Air Update Firmware pada Perangkat IoT Dengan Protokol MQTT
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/244/195
+Title : Information Display Status Dosen Menggunakan Raspberry Pi
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/289/192
+Title : Implementasi Socket Programming Sebagai Media Sinkronisasi Database Terdistribusi dengan Teknik Multi Master Replication
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/271/193
+Title : Sistem Informasi Manajemen Wisuda Berbasis Website Menggunakan Metode Waterfall
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/309/186
+Title : Implementasi Aplikasi Speech to Text untuk Memudahkan Wartawan Mencatat Wawancara dengan Python
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/293/191
+Title : Penerapan K-Means Clustering untuk Klasifikasi Serangan Cyber pada Syslog File
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/305/187
+Title : Pengembangan Sistem Informasi Penerimaan Siswa Baru SMA YAPIM Medan
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/302/188
+Title : Game Hafalan Ayat Al-Qur’an Berbasis Android Bagi Siswa Sekolah Dasar Islam Terpadu
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/295/190
+Title : Pengembangan Pembelajaran E-learning Dengan Moodle (Modulator Object-Oriented Dynamic Learning Environment)
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/210/176
+Title : Pemilihan Lokasi Usaha Vapor Store Menggunakan Metode Weighted Product
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/230/177
+Title : Perbandingan Akurasi Naïve Bayes dan K-Nearest Neighbor pada Klasifikasi untuk Meramalkan Status Pekerjaan Alumni ITB STIKOM Bali
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/233/178
+Title : Analisis Pembacaan dan Penulisan Data Buku Menggunakan RFID Mifare RC-522 untuk Perpustakaan
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/228/179
+Title : Arsitektur Konsolidasi Server dengan Virtualisasi untuk Penyedia Layanan Infrastruktur Cloud
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/240/180
+Title : Sistem Pendukung Keputusan Penyeleksian Mahasiswa Berprestasi Menggunakan Metode Naive Bayes Berbasis Web
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/243/181
+Title : Analisis Performansi Antara Apache & Nginx Web Server Dalam Menangani Client Request
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/248/182
+Title : Pengukuran Kualitas Layanan Website Terhadap Kepuasan Pengguna pada Universitas XYZ  dengan Menggunakan Metode Webqual 4.0
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/249/183
+Title : Perancangan dan Analisis Sistem Informasi Persediaan Barang pada CV UMA HANA
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/239/184
+Title : Implementasi Model Delphi dalam Pengembangan Multimedia Interaktif Pengenalan Objek Wisata di Kabupaten Banyuwangi
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/254/185
+Title : Analisa Perbandingan Nilai Akurasi Moving Average dan Exponential Smoothing untuk Sistem Peramalan Pendapatan pada Perusahaan XYZ
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/193/166
+Title : Penerapan Metode Profile Matching dalam Penentuan Jenis Tanaman
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/198/167
+Title : Analisis Sistem Cloud Computing IAAS Penyedia Server Cloud  dengan Standar NIST Special Publication 800-145
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/200/168
+Title : Rekomendasi Pemodelan Sistem Manajemen Keamanan Informasi Menggunakan ISO/IEC 27001:2013 dan DFD pada PT. XYZ
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/213/169
+Title : Penerapan Feature Selection untuk Prediksi Lama Studi Mahasiswa
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/211/170
+Title : Audit Keamanan Sistem Informasi Perpustakaan STMIK STIKOM Bali Menggunakan Kerangka Kerja COBIT
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/215/171
+Title : Aplikasi Ekstrakurikuler Jurnalistik Berbasis Web pada SMAN 5 Denpasar Menggunakan Konsep Gamification
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/212/172
+Title : Sistem Manajemen Arsip Menggunakan Framework Laravel dan Vue.Js (Studi Kasus : BPKAD Provinsi Bali)
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/214/173
+Title : Analisis Running Time Algoritma MFCC-Multikanal dan MFCC-Dualkanal untuk Ekstraksi
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/220/174
+Title : Pengaruh Pagination dan Kompleksitas Query Data Terhadap Aspek Kehijauan dari Sistem Informasi Manajemen
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/205/175
+Title : Pengaruh E-Learning Sebagai Salah Satu Media Pembelajaran Berbasis Teknologi Informasi Terhadap Motivasi Belajar Mahasiswa
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/185/158
+Title : Analisis Kepuasan Mahasiswa Terhadap Sistem Pemilihan Konsentrasi Dengan Menggunakan Metode EUCS
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/186/159
+Title : Analisis Penerimaan Terhadap Sistem Akademik (SINAK) (Studi Kasus: SINAK STIKOM Bali)
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/187/160
+Title : Analisis Kompetensi Manajer Proyek  Yang Berpengaruh Terhadap Kinerja Konstruksi Gedung Swasta Di Kota Denpasar Dan Kabupaten Badung
+Link : undefined
+Title : Aplikasi Perubahan Garis Pantai dengan ONE-LINE Model
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/195/162
+Title : Pengembangan Media Pembelajaran Bermuatan Conceptual Change untuk Perkuliahan Sistem Elektronika
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/150/138
+Title : Analisis Kinerja Protokol Routing RPL pada Simulator Cooja
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/157/139
+Title : Pengukuran Kepuasan Pengguna Sistem Informasi Dosen Menggunakan Metode Servqual
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/158/140
+Title : Perencanaan Teknologi Architecture Perpustakaan  STMIK STIKOM Bali
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/159/141
+Title : Penerapan Metode Activity Based Costing Untuk Penentuan Harga Pokok Produksi
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/160/142
+Title : Media Informasi Sebagai Promosi Produk Bidang Desain Interior Berbasis Animasi 3D
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/161/143
+Title : Implementasi Sistem Pendukung Keputusan Seleksi Lomba Posyandu Menggunakan Metode Simple Additive Weighting  (SAW)
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/164/144
+Title : Implementasi Sistem Informasi E-Procurement  Barang/Jasa Berbasis Web
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/165/145
+Title : Sistem Informasi Penjadwalan Convention Center  STIKOM Bali berbasis Web
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/166/146
+Title : Sistem Penerimaan Mahasiswa Baru Berbasis Web Di Politeknik Widya Dharma Bali
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/167/147
+Title : Aplikasi Penilaian Essai Menggunakan Rubrik Penilaian
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/169/148
+Title : Analisis Perancangan E-Commerce Sistem Penjualan Produk Hasil Olahan Kopi
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/170/149
+Title : Sistem Pendukung Keputusan PemberianKreditPadaLembaga Perkreditan Desa Pejeng
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/171/150
+Title : Prediksi Umur Janin Pada Citra USG Berdasarkan Ukuran BPD Dan HC Menggunakan IRHT
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/172/151
+Title : Sistem Pakar untuk Mendiagnosa Penyakit Meningitis Menggunakan Metode Nae Bayes Berbasis Web
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/173/152
+Title : Deteksi Lung Nodule Otomatis dari Citra Medis Computed Tomography (CT) Scan dengan Operasi Morfology dan SVM
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/174/153
+Title : Optimasi Pencarian Kata Pada Kamus Aneka Bahasa Menggunakan Algoritma Levenshtein Distance
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/175/154
+Title : Pengaruh Natural User Interface Sensor Kinect dengan Minat Pembeli dalam Sistem Pemesanan Barang
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/176/155
+Title : Implementasi Algoritma Genetika untuk Penjadwalan Asisten Dosen di STIKOM Bali
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/177/156
+Title : Usability User Interface dan User Experience Media Pembelajaran Kamus Kolok Bengkala Berbasis Android
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/178/157
+Title : Analisis Perbandingan Algoritma Adaptive Median Filtering  Dan Homomorphic Filtering Pada Peningkatan Kualitas  Citra Lontar Bali
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/132/64
+Title : Dashboard System Penerimaan Mahasiswa Baru  di STIKOM Bali
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/134/65
+Title : Sistem Informasi Eksekutif Data Alumni Perguruan Tinggi Menggunakan Data Warehouse
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/147/66
+Title : Knowledge Discovery Pada Email Box Sebagai Penunjang  Email Marketing
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/138/67
+Title : Rancang Bangun Sistem Penjadwalan Sidang Skripsi  Menggunakan Algoritma Genetika
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/145/68
+Title : Aplikasi Latih Tanding Futsal Menggunakan Framework  Laravel
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/133/69
+Title : Multimedia Interaktif Pembelajaran Fisika Besaran Dan  Satuan Berbasis Flash
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/139/70
+Title : Segmentasi PSO Pararel GPGPU Untuk  Pengenalan Citra  Aksara Jawa
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/146/71
+Title : Perancangan Sistem Informasi E-Procurement  Barang/Jasa Berbasis Web
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/142/72
+Title : Perancangan Sistem Arsitektur Knowledge Management  System Untuk Meningkatkan Kinerja Dosen
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/141/73
+Title : Survei: Aplikasi dan Pengembangan Model Software-as-aService pada Cloud Computing
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/149/74
+Title : Analisis Pengaruh Budaya Organisasi untuk  Rekomendasi Pengembangan Sistem Informasi pada Universitas Hindu Indonesia
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/131/75
+Title : Perencanaan Strategis Digital Library Stikom Bali  Menggunakan Model Strategis Ward And Peppard
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/143/76
+Title : Analisis Kepuasan Pengguna E-Learning Menggunakan  Metode Kano
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/130/77
+Title : Deteksi Ukuran Telur Ayam Berdasarkan Diameter  Menggunakan Metode Fuzzy C-Means Dan IRHT
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/135/78
+Title : Perencanaan Strategis Sistem Informasi Bimbingan dan  Konseling  (Studi Kasus: STMIK STIKOM Indonesia)
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/144/79
+Title : Implementasi Metode Smart Pada Aplikasi Sistem  Pendukung Keputusan Pemilihan Sekolah Paud
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/136/80
+Title : IoT - Parking Lot Detection Based on Image Processing
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/137/81
+Title : Sistem Penentuan Bank bagi Calon Nasabah dengan Metode  Elimination and Choice Translation Reality
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/148/82
+Title : Pengaruh Media Pembelajaran Kewarganegaraan Berbasis  Game Online Terhadap Minat Belajar Mahasiswa
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/140/83
+Title : Expert Advisor Dengan Strategi   Moving Average, RSI Dan Bolinger Band
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/106/11
+Title : Analisis Perbandingan Metode Sibis Dan Metode  Econometric Dalam Pengukuran Kesenjangan Digital  Di  Sumba Barat Daya
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/107/19
+Title : Kecerdasan Buatan Pada Game Edukasi Untuk  Pembelajaran Bahasa Inggris Berbasis Pendekatan Heuristik  Similaritas
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/108/21
+Title : Perancangan Model Konseptual Penggunaan Dan  Penerimaan Media Sosial Untuk M-Bisnis
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/109/22
+Title : Manajemen Pemantauan Lalu Lintas Pada Persimpangan  Jalan Di Denpasar
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/110/24
+Title : Implementasi Algoritma Levenshtein Pada Sistem Pencarian  Judul Skripsi/Tugas Akhir
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/111/27
+Title : Aplikasi Penggunaan Dan Kegiatan Laboratorium STMIK STIKOM Bali Berbasis Web
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/112/30
+Title : Aplikasi Untuk Menggerakan Cursor Dengan Deteksi Kepala  Secara Real-Time Menggunakan Metode Optical Flow Dan  Sift
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/113/32
+Title : Aplikasi Virtual Tour Guide Sebagai Promosi Pariwisata Bali
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/114/35
+Title : Evaluasi Sistem Informasi Online Di STMIK STIKOM Bali  dengan Model Delone dan Mclean
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/115/36
+Title : Perancangan Aplikasi Pocket Map Untuk Desa Wisata
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/116/39
+Title : Analisis Pengukuran Tingkat Efektivitas dan Efisiensi Sistem  Informasi Manajemen Surat STIKOM Bali
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/117/40
+Title : Pengaruh Brand Image terhadap  Perceived Value Pelanggan di STIKOM bali
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/118/41
+Title : Perencanaan Strategi Pemasaran  (Studi Kasus : STIKOM Bali)
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/119/42
+Title : Perencanaan Strategi Pemasaran Penjualan Alat Kesehatan  (Studi Kasus: PT. Cahya Laksmi Abadi)
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/120/44
+Title : Model Evaluasi Rekaman Percakapan  Di Audio Forensik
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/124/45
+Title : Perancangan Aplikasi Penyuluhan Kesehatan Ibu dan Anak
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/126/46
+Title : PENGUKURAN USABILITY SISTEM INFORMASI  ONLINE (SION) STIKOM BALI
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/127/47
+Title : EXECUTIVE INFORMATION SYSTEM PADA UPW (USAHA PERJALANAN WISATA) BERBASIS WEB
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/128/49
+Title : Pengaruh Fungsi Aktivasi, Optimisasi dan Jumlah Epoch Terhadap Performa Jaringan Saraf Tiruan
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/129/50
+Title : Perancangan Aplikasi Penanganan Mahasiswa Bermasalah  pada Program Studi Sistem Informasi STIKOM Bali
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/82/12
+Title : Implementasi Metode Simple Additive Weighting (SAW) Dalam Memprediksi Calon Mahasiswa Dropout STMIK STIKOM Bali
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/83/86
+Title : Implementasi Model View Controller Dengan Framework Codeigniter Pada E-Commerce Penjualan Kerajinan Bali
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/84/87
+Title : Implementasi Geographic Information System  Untuk Pemetaan Lahan Pertanian Kota Denpasar
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/85/88
+Title : Analisa Dan Perancangan Sistem Maintenance Hadware Pada Laboratorium  STMIK STIKOM Bali Berbasis Web
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/86/89
+Title : Analisa Potensi Mahasiswa Di Daerah Bali Menggunakan Pendekatan K-Mean Clustering
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/87/90
+Title : Multimedia Pembelajaran Bahasa Indonesia Untuk Mahasiswa Berbasis Animasi
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/88/104
+Title : Perancangan Cerita Dan Karakter 3D Sebagai Pendukung Film Animasi Rongrang
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/89/91
+Title : Klasifikasi Penerima Bantuan Kredit Koperasi Dengan Metode ID3
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/90/92
+Title : Penerapan Bisnis Model Kanvas Dalam Penentuan Rencana Manajemen Usaha Jasa Pengiriman Dokumen Di Denpasar
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/91/93
+Title : Analisa Dan Perancangan Studio Desain Online Studi Kasus Toko Baju
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/92/94
+Title : Standar Etika bagi Perusahaan yang Menggunakan Media Sosial sebagai Enterprises Official Presence
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/93/95
+Title : Perancangan Sistem Informasi Eksekutif Pembantu Ketua I STMIK STIKOM Bali
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/94/96
+Title : Sistem Pendaftaran Calon Mahasiswa Baru Berbasis Web (Studi Kasus: Politeknik Ganesha Guru)
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/95/97
+Title : Analisis Sentimen Pada Review Pengguna Aplikasi Mobile Untuk Evaluasi Faktor Usability
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/96/98
+Title : Perancangan Sistem Informasi Monitoring Suhu Ruangan  Berbasis Twitter
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/97/99
+Title : Prediksi Cacat Perangkat Lunak Dengan Optimasi Naive Bayes Menggunakan Pemilihan Fitur Gain Ratio
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/98/100
+Title : Memprediksi Waktu Memperbaiki Bug dari Laporan Bug Menggunakan Klasifikasi Random Forest
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/99/101
+Title : Penerapan Metode Jaringan Syaraf Tiruan Backpropagation Untuk Meramalkan Harga Saham (IHSG)
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/100/102
+Title : Perancangan Sig Untuk Pemetaan Lokasi Diving Di Pulau Bali
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/101/103
+Title : Perancangan Sistem Informasi Wisata Kuliner Berbasis Web Dengan Menggunakan Ajax dan Code Igniter
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/52/14
+Title : Pengaruh Experience Quality Terhadap Brand Image Menggunakan Perceived Value (Studi Kasus di STIKOM BALI)
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/53/15
+Title : Perancangan Sistem Pendukung Keputusan Pemasaran STIKOM Bali Menggunakan Metode Fuzzy C Means Clustering
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/54/20
+Title : Perancangan Sistem Informasi Manajemen Zakat
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/55/25
+Title : Perancangan Sistem Informasi Administrasi Penelitian Stmik STIKOM Bali
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/56/26
+Title : Perancangan Sistem Informasi Akademik STIKES Wira Medika Bali Berbasis Desktop
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/57/29
+Title : Perancangan Aplikasi Rencana Kerja dan Anggaran (RKA) Laboratorium
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/58/31
+Title : Analisa dan Perancangan Sistem Pendaftaran dan Ujian Seleksi Asdos (Asisten Dosen) STMIK STIKOM Bali
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/59/34
+Title : Implementasi Analisa Teknikal untuk  Otomatisasi Currency Market
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/60/37
+Title : Sistem Perwalian Online Mahasiswa Pada Program Pendidikan Jarak Jauh
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/68/38
+Title : Analysis On The Students Descriptive Writing In Dual-Degree Program Stikom Bali
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/69/48
+Title : Penerapan Transformasi Kosinus Diskrit Dalam Klasifikasi Alat Musik Tradisional Menggunakan  K-nearest Neighbor
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/70/51
+Title : Dokumen Deskripsi Perancangan Perangkat Lunak Sistem Pengarsipan Surat Masuk dan Surat Keluar
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/71/52
+Title : Penerapan Kombinasi Metode Enkripsi Vigenere Chiper Dan Transposisi Pada Aplikasai Client Server Chatting
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/72/53
+Title : Perancangan Sistem Pengolahan Kuesioner Penggunaan Laboratorium Stikom Bali
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/73/105
+Title : Perancangan Aplikasi Mobile Untuk Perhitungan Ketupat
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/74/54
+Title : Perancangan SIG Untuk Monitoring Titik Api Pada Taman Nasional Bali Barat
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/75/55
+Title : Penentuan Lokasi Pemasaran Produk dengan Menerapkan Metode AHP dan Weighted Product
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/76/56
+Title : Sistem Informasi Indeks Prestasi Dosen STMIK STIKOM Bali
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/77/57
+Title : Menciptakan Keunggulan Bersaing Melalui Customer Relationship Management  (Studi Kasus: Politeknik Ganesha Guru)
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/78/106
+Title : Perancangan Sistem Informasi Geografis Sebaran SMK TI di  Bali
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/1/117
+Title : Perancangan Aplikasi Sistem Pendukung Keputusan  Penentuan Baby Shop Menggunakan Metode Brown Gibson
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/2/118
+Title : Perancangan Sistem Informasi Untuk Media Promosi  Agrowisata Pertanian Subak
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/3/119
+Title : Klastering Perekonomian Mahasiswa Politeknik Negeri Bali  Menggunakan K-Means
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/4/120
+Title : Penerapan Metode Naive Bayes Untuk Menganalisa  Kerusakan Automatic Transmission Pada Mobil
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/6/122
+Title : Perancangan Simulasi Optimasi Masalah Transportasi  Pengiriman Barang Dengan Menggunakan Algoritma  Genetika
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/8/124
+Title : Perancangan Aplikasi Sistem Infromasi Perhitungan  Sertifikasi Guru Berbasis Web
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/9/125
+Title : Pengaruh Budaya Organisasi Terhadap Pengembangan  Sistem Informasi
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/11/127
+Title : Analisis Dan Perancangan Sistem Informasi Manajemen  Laboratorium STMIK STIKOM Bali Berbasis Web
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/12/128
+Title : Aplikasi Komik Untuk Toilet Training Berbasis Android
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/13/129
+Title : Pemanfaatan Google API untuk Model Interoperability Web  Berbasis PHP dengan Google Drive
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/5/121
+Title : Penggunaan IT Balanced Scorecard Untuk Pengukuran Kinerja Teknologi Informasi Pada Stikom Bali
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/7/123
+Title : Perancangan Dashboard Kinerja Mahasiswa Baru
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/10/126
+Title : Perancangan Pengembangan Media Pembelajaran Bahasa  Indonesia Dengan Penerapan Metode Jigsaw
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/14/130
+Title : Bussiness Impact Analysis Aplikasi Jaringan Komputer  Dengan Teknik Packet Sniffing
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/15/131
+Title : Distribusi Konten Web Server Menggunakan Motode Content  Delivery Network
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/16/132
+Title : Perancangan Sistem Informasi Penjualan 0nline   Dengan Zachman Framework
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/17/133
+Title : Analisa Perancangan Sistem Informasi Pemasaran Berbasis  Website
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/19/134
+Title : Sistem Informasi Eksekutif  Dinas Kependudukan Dan Pencatatan Sipil Denpasar
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/21/135
+Title : Perancangan Aplikasi Knowledge Sharing Dengan Konsep  Gamification
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/23/136
+Title : Aplikasi Informasi Objek Wisata Religi Kabupaten Gianyar Berbasis Multimedia Interaktif
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/18/108
+Title : Penerapan Metode Triple Exponential Smoothing pada Sistem Peramalan Penentuan Stok Obat
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/20/109
+Title : Aplikasi Multimedia Pembelajaran Interaktif Strategi Permainan Catur
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/22/110
+Title : Sistem Informasi Eksekutif Pada UPTD Kesehatan Kecamatan Ende Selatan Berbasis Web
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/24/85
+Title : Sistem Informasi Eksekutif Layanan Keimigrasian pada Kantor Imigrasi kelas I Denpasar
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/25/111
+Title : Implementasi CRM (Customer Relationship Management) Pada Sistem Informasi Travel X Berbasis Web
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/26/112
+Title : Sistem Informasi Manajemen Unit Kegiatan Mahasiswa (UKM) Tari Tradisional Pragina STIKOM Bali Berbasis Web dan SMS Gateway
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/28/113
+Title : Rancang Bangun Sistem Informasi Reservasi Hotel Berbasis Web dengan Framework Codeigniter (Studi Kasus CV. BSB Travel)
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/29/114
+Title : Perbandingan Kinerja Fuzzy C-Means dan DBSCAN Dalam Segmentasi Citra USG Kepala Janin
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/30/115
+Title : Perancangan Sistem Informasi Peminjaman Penggunaan Ruangan pada STMIK STIKOM Bali
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/31/116
+Title : Pemodelan Filter Adaptif Untuk Perbaikan Kualitas Sinyal Audio Multi Wicara
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/32/107
+Title : Implementasi Sistem Informasi Reservasi Speedboat Berbasis Web Service Dan Sms Reply
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/33/28
+Title : Aplikasi Kalender Tenganan Pegringsingan Berbasis Web
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/34/33
+Title : Identifikasi Biometrik Intonasi Suara untuk Sistem Keamanan Berbasis Mikrokomputer
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/35/43
+Title : Aplikasi Pembelajaran Network Security Berbasis Multimedia
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/36/58
+Title : Augmented Reality Book Pengenalan Busana Pernikahan Adat Bali Berbasis Multimedia
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/37/59
+Title : Pemanfaatan Augmented Reality Pada Sistem Informasi Geografis Kampus Di Bali
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/38/60
+Title : Rancang Bangun Sistem Kependudukan Kelurahan Sumurkidang Kabupaten Pemalang Dengan Implementasi Framework Spring Dan Hibernate Berbabis Java
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/40/61
+Title : Peramalan Permintaan Produk Perak Menggunakan Metode Simple Moving Average Dan Exponential Smoothing
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/41/62
+Title : Data Mining Prestasi Akademik Dengan Naive Bayes Berdasarkan Attribut Importance (AI)
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/39/63
+Title : Sistem Quick Count Pemilihan Kepala Desa Berbasis SMS
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/42/4
+Title : Analisa Sistem E-Procurement pada Perpustakaan STMIK STIKOM Bali Berbasis Zachman Framework
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/43/6
+Title : Analisis Penggunaan E-Commerce dalam Keterkaitan dengan Budaya Bali Berbasis Web
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/44/7
+Title : Perancangan Data Mining dalam Analisis Asosiasi Kuantitatif Pembelian Item Barang dengan Metode Apriori
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/45/8
+Title : Sistem Backup Data Otomatis Menggunakan Protocol FTP dan SMS Gateway
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/46/10
+Title : Rancang Bangun Sistem Informasi Geografis Pemesanan Taksi Berbasis Android
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/47/13
+Title : Penerapan E-Commerce dalam Kegiatan Pemasaran Produk Kerajinan Tangan di Kecamatan Tegallalang
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/48/16
+Title : Rancang Bangun Aplikasi Indexing Al-Qur`an pada Platform Windows Phone
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/49/17
+Title : Analisis Mobile Commerce Berbasiskan Android untuk Pemetaan Usaha Kecil dan Menengah di Denpasar Bali
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/50/18
+Title : Sistem Informasi Lokasi Dosen Berbasis Android dan SMS Gateway Studi Kasus : STIKOM Bali
+Link : https://jsi.stikom-bali.ac.id/index.php/jsi/article/view/51/23
